@@ -1,4 +1,4 @@
-# Codellama - 34b with GPTQ
+# Codellama-34B
 Code Llama is a collection of pretrained and fine-tuned generative text models ranging in scale from 7 billion to 34 billion parameters. This is the repository for the 34B Python specialist version. This model is designed for general code synthesis and understanding. 
 
 ---
